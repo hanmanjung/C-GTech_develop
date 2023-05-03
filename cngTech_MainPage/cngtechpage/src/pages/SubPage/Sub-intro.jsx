@@ -52,7 +52,7 @@ export default function SubPage() {
                     </a>
                     </li>
                     <li>
-                    <a href="/html/MainPage/SubPage/Sub-intro2.html" className="">
+                    <a href="/Sub2" className="">
                         제품소개
                     </a>
                     </li>

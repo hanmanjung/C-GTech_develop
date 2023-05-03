@@ -6,7 +6,6 @@ import '../../styles/output.css';
 
 export default function MainPage() {
 
-
     return (
         <>
             <title>(주)C&amp;G TECH</title>
